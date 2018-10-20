@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bb",
+  "name": "Bright Blocks",
+  "description": "Who needs torches when any Vanilla block gives off light! This mod is a staple for any decorator!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YoungSandwich"],
+  "credits": "StevenSeegal for all the help",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
